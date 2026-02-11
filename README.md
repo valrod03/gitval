@@ -1,2 +1,3 @@
 # gitval
-1at project
+1st project
+minus aura 
